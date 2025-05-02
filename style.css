@@ -1,0 +1,12 @@
+body{background-color: lightyellow; color: darkgreen; font-family: Arial, sans-serif;}
+.title1 {font-size: 40px;}
+.nav {font-size: 30px; color: blue; text-decoration: none;}
+.title {text-align: center; font-size: 40px;}
+.main p{font-size: 24px; line-height: 1.6;}
+#gal {text-align: center; font-size: 40px;}
+.gal-l{float: left; margin-left: 200px; text-align: center;}
+.gal-r{float: right; margin-right: 200px; text-align: center;}
+.cat{font-size: 30px;}
+.clear-fix {clear: both;}
+#cont p{font-size: 30px;}
+.title2 h1{font-size: 40px; float: left;}
